@@ -17,3 +17,9 @@ Print String Using Loop
 Print Stars Using Loop
 
 <img width="639" height="111" alt="Screenshot 2026-03-28 224314" src="https://github.com/user-attachments/assets/601d0670-4d17-4644-9345-8941b3708c01" />
+
+
+Two Numbers and Display the Greater Value
+
+
+<img width="640" height="106" alt="Screenshot 2026-03-28 225858" src="https://github.com/user-attachments/assets/a1203a59-250e-40ea-9a52-2198e2783ac3" />
