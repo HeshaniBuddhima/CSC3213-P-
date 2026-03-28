@@ -21,4 +21,5 @@ Division
 
 Arithmetic Operations with Display Messages
 
-![Uploading Screenshot 2026-03-28 213737.png…]()
+<img width="636" height="188" alt="Screenshot 2026-03-28 213737" src="https://github.com/user-attachments/assets/605ca975-1831-4b27-82bf-bc8c7a85b7ac" />
+
