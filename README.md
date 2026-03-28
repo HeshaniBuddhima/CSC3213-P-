@@ -21,3 +21,10 @@ Display Multi-line String
 
 
 <img width="642" height="143" alt="Screenshot 2026-03-28 171000" src="https://github.com/user-attachments/assets/e3dee009-8581-4418-8141-ce4abeaee1b8" />
+
+
+
+Using Carriage Return in String
+
+
+<img width="641" height="131" alt="Screenshot 2026-03-28 171551" src="https://github.com/user-attachments/assets/4032355d-cd9c-459f-bb32-ea50d97c4a12" />
